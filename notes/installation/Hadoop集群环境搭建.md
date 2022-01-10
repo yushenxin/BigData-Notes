@@ -166,7 +166,7 @@ export JAVA_HOME=/usr/java/jdk1.8.0_201/
 </configuration>
 ```
 
-#### 5. slaves
+#### 5. workers
 
 配置所有从属节点的主机名或 IP 地址，每行一个。所有从属节点上的 `DataNode` 服务和 `NodeManager` 服务都会被启动。
 
